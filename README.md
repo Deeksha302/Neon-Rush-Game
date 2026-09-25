@@ -16,7 +16,7 @@
 
 | Leaderboard | Daily Missions | Rate & Review |
 | :---: | :---: | :---: |
-| ![Leaderboard](leaderboard.jpeg) | ![Daily Mission](daily%20mission.jpeg) | ![Rating Page](rating%20page.jpeg) |
+| ![Leaderboard](leaderboard.jpeg) | ![Daily Mission](daily%20mission.jpeg) | ![Rating Page](rating.jpeg) |
 
 | Game Over Screen | Shop Trails |
 | :---: | :---: |
