@@ -10,7 +10,7 @@
 
 | Main Menu & Profile | Gameplay Action | Shop & Cosmetics |
 | :---: | :---: | :---: |
-| ![Menu Screenshot](https://via.placeholder.com/300x200?text=Main+Menu) | ![Gameplay Screenshot](https://via.placeholder.com/300x200?text=Gameplay+Action) | ![Shop Screenshot](https://via.placeholder.com/300x200?text=Shop+System) |
+| (game front page.jpeg) | ![Gameplay Screenshot](https://via.placeholder.com/300x200?text=Gameplay+Action) | ![Shop Screenshot](https://via.placeholder.com/300x200?text=Shop+System) |
 
 | Leaderboard & Medals | Lucky Spin Wheel | Rate & Review System |
 | :---: | :---: | :---: |
