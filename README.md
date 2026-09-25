@@ -12,7 +12,7 @@
 
 | Main Menu & Profile | Gameplay Action | Shop & Cosmetics |
 | :---: | :---: | :---: |
-| ![Main Menu](gamefrontpage.jpeg) | ![Start Game](startgame.jpeg) | ![Shop Panel](shoppanel.jpeg) |
+| ![Main Menu](gamefrontpage.jpeg.) | ![Start Game](startgame.jpeg) | ![Shop Panel](shoppanel.jpeg) |
 
 | Leaderboard | Daily Missions | Rate & Review |
 | :---: | :---: | :---: |
