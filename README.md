@@ -8,13 +8,19 @@
 
 > *(Game chalate waqt screenshot le kar `assets/` folder mein daalein aur niche links update kar dein)*
 
+## 📸 Screenshots & Gameplay Preview
+
 | Main Menu & Profile | Gameplay Action | Shop & Cosmetics |
 | :---: | :---: | :---: |
-| (game front page.jpeg) | ![Gameplay Screenshot](https://via.placeholder.com/300x200?text=Gameplay+Action) | ![Shop Screenshot](https://via.placeholder.com/300x200?text=Shop+System) |
+| ![Main Menu](gamefrontpage.jpeg) | ![Start Game](startgame.jpeg) | ![Shop Panel](shoppanel.jpeg) |
 
-| Leaderboard & Medals | Lucky Spin Wheel | Rate & Review System |
+| Leaderboard | Daily Missions | Rate & Review |
 | :---: | :---: | :---: |
-| ![Leaderboard Screenshot](https://via.placeholder.com/300x200?text=Leaderboard) | ![Spin Screenshot](https://via.placeholder.com/300x200?text=Lucky+Spin) | ![Rating Screenshot](https://via.placeholder.com/300x200?text=Rating+System) |
+| ![Leaderboard](leaderboard.jpeg) | ![Daily Mission](dailymission.jpeg) | ![Rating Page](ratingpage.jpeg) |
+
+| Game Over Screen | Shop Trails |
+| :---: | :---: |
+| ![Game Over](gameoverpage.jpeg) | ![Shop Trails](shoppanel2.jpeg) |
 
 ---
 
