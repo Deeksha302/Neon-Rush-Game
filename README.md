@@ -12,15 +12,15 @@
 
 | Main Menu & Profile | Gameplay Action | Shop & Cosmetics |
 | :---: | :---: | :---: |
-| ![Main Menu](gamefrontpage.jpeg.) | ![Start Game](startgame.jpeg) | ![Shop Panel](shoppanel.jpeg) |
+| ![Main Menu](game%20front%20page.jpeg) | ![Start Game](start%20game.jpeg) | ![Shop Panel](shop%20panel.jpeg) |
 
 | Leaderboard | Daily Missions | Rate & Review |
 | :---: | :---: | :---: |
-| ![Leaderboard](leaderboard.jpeg) | ![Daily Mission](dailymission.jpeg) | ![Rating Page](ratingpage.jpeg) |
+| ![Leaderboard](leaderboard.jpeg) | ![Daily Mission](daily%20mission.jpeg) | ![Rating Page](rating%20page.jpeg) |
 
 | Game Over Screen | Shop Trails |
 | :---: | :---: |
-| ![Game Over](gameoverpage.jpeg) | ![Shop Trails](shoppanel2.jpeg) |
+| ![Game Over](game%20over%20page.jpeg) | ![Shop Trails](shop%20panel2.jpeg) |
 
 ---
 
