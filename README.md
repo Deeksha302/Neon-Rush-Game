@@ -54,4 +54,4 @@
 
 1. Clone or download this repository:
    ```bash
-   git clone [https://github.com/your-username/neon-rush.git](https://github.com/your-username/neon-rush.git)
+   git clone [https://github.com/Deeksha302/Neon-Rush-Game.git](https://github.com/Deeksha302/Neon-Rush-Game.git)
